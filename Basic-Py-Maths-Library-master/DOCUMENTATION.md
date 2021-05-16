@@ -6,3 +6,7 @@
 2. `sum()` - Adds two numbers.<br>
              input-two numbers <br>
              output -returns the addition.
+             
+3. `div()` - Divides two numbers.<br>
+             input- two numbers <br>
+             output- returns quotient
