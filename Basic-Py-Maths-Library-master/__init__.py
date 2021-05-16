@@ -19,6 +19,16 @@ output: returns sum
 c=a+b
 return c
 
+def div(a,b)
+
+divide two numbers
+input: a,b - two numbers
+output: c - returns value
+    
+c=a/b
+return c
+
+
 
 
 
