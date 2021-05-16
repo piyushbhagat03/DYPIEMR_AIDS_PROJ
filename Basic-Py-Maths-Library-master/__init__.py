@@ -23,7 +23,7 @@ def div(a,b)
 
 divide two numbers
 input: a,b - two numbers
-output: c - returns value
+output: c - returns quotient
     
 c=a/b
 return c
